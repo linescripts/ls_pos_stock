@@ -4,7 +4,7 @@
     'name': 'POS Stock',
     'category': 'Pos',
     'summary': 'User display product stock and Hide out of stock products.',
-    'version': '15.0',
+    'version': '14.0',
     'license': 'LGPL-3',
     'author': "Linescripts Softwares",
     'support': 'support@linescripts.com',
