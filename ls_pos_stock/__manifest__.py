@@ -17,6 +17,8 @@
     'data': [
         'views/pos_options.xml',
     ],
+    'images': ['static/description/images/pos_stock_2.png'],
+
     'assets': {
         'point_of_sale.assets': [
             '//ls_pos_stock/static/src/css/pos.css',
@@ -26,6 +28,7 @@
             'ls_pos_stock/static/src/xml/**/*',
         ],
     },
+
     'price': 0.00,
   
     'installable': True,
