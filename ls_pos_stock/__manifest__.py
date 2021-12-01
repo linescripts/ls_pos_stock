@@ -17,7 +17,7 @@
     'data': [
         'views/pos_options.xml',
     ],
-    'images': ['static/description/images/pos_stock_2.png'],
+    'images': ['static/description/images/pos_stock_2.jpg'],
 
     'assets': {
         'point_of_sale.assets': [
